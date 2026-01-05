@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Afroz419.github.io/landingpage",
+  "homepage": "https://Afroz419.github.io/Simple-Landing-Page-using-React-JS-and-Tailwind-CSS",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
